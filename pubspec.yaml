@@ -63,6 +63,9 @@ flutter:
     - assets/fundo_get.png
     - assets/fundo_modos.png
     - assets/Cantora.png
+    - assets/billie2.png
+    - assets/billie3.png
+    - assets/drake.png
 
 
   # To add assets to your application, add an assets section, like this:
